@@ -182,7 +182,7 @@ FOREIGN KEY (order_id) REFERENCES Orders(order_id)
 );
 ```
 ### ER Diagaram:
-![]()
+![](https://github.com/BhavanaBalasa/Amazon_SQL_Project/blob/main/Amazon_ER.png)
 ### Business Problems:
    Based on my understanding, I have identified several issues, and the information obtained through these queries, which range from basic to advanced, and use this information to improve future sales forecasting and business planning.
 
